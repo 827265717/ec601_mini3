@@ -2,7 +2,7 @@
   "name": "tictactoe",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://HKrzyszczak.github.io/tictacto",
+  "homepage": "https://827265717.github.io/ec601_mini3",
   "dependencies": {
     "firebase": "^4.7.0",
     "react": "^16.1.1",
